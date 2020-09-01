@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw--1-components/static/css/main.5b2229f1.chunk.css",
+    "main.js": "/goit-react-hw--1-components/static/js/main.27f8ec6c.chunk.js",
+    "main.js.map": "/goit-react-hw--1-components/static/js/main.27f8ec6c.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw--1-components/static/js/runtime-main.e9659f5f.js",
+    "runtime-main.js.map": "/goit-react-hw--1-components/static/js/runtime-main.e9659f5f.js.map",
+    "static/css/2.3d72dcb8.chunk.css": "/goit-react-hw--1-components/static/css/2.3d72dcb8.chunk.css",
+    "static/js/2.4cb585a2.chunk.js": "/goit-react-hw--1-components/static/js/2.4cb585a2.chunk.js",
+    "static/js/2.4cb585a2.chunk.js.map": "/goit-react-hw--1-components/static/js/2.4cb585a2.chunk.js.map",
+    "index.html": "/goit-react-hw--1-components/index.html",
+    "precache-manifest.fc92af6470ca5d5cfbab0f86ca9c72ca.js": "/goit-react-hw--1-components/precache-manifest.fc92af6470ca5d5cfbab0f86ca9c72ca.js",
+    "service-worker.js": "/goit-react-hw--1-components/service-worker.js",
+    "static/css/2.3d72dcb8.chunk.css.map": "/goit-react-hw--1-components/static/css/2.3d72dcb8.chunk.css.map",
+    "static/css/main.5b2229f1.chunk.css.map": "/goit-react-hw--1-components/static/css/main.5b2229f1.chunk.css.map",
+    "static/js/2.4cb585a2.chunk.js.LICENSE.txt": "/goit-react-hw--1-components/static/js/2.4cb585a2.chunk.js.LICENSE.txt",
+    "static/media/Statistical.module.css": "/goit-react-hw--1-components/static/media/Proxima Nova Semibold.ecf246b4.svg",
+    "static/media/TransactionHistory.module.css": "/goit-react-hw--1-components/static/media/helveticaneuecyr-light.ef8af511.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9659f5f.js",
+    "static/css/2.3d72dcb8.chunk.css",
+    "static/js/2.4cb585a2.chunk.js",
+    "static/css/main.5b2229f1.chunk.css",
+    "static/js/main.27f8ec6c.chunk.js"
+  ]
+}
