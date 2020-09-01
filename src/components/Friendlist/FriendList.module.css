@@ -1,0 +1,19 @@
+.friendList {
+  max-width: 325px;
+  margin: 0 auto 40px;
+  list-style: none;
+}
+
+.item {
+  display: flex;
+  padding: 6px 0px 6px 20px;
+  align-items: center;
+  height: 60px;
+  box-shadow: 1px 3px 3px 1px rgba(191, 205, 222, 0.75);
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+.item:last-child {
+  margin-bottom: 0px;
+}
