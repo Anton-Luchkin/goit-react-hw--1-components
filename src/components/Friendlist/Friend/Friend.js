@@ -1,18 +1,21 @@
 import React from 'react';
+
 import PropTypes from 'prop-types';
 
-import styles from './Friend.module.css';
+import s from './Friend.module.css';
 
 import defaultImg from '../../../defaultImg.png';
 
 
 const Friend = ({ avatar, name, isOnline }) => {
+   const statusBgColor = isOnline ? 'green' : 'red'
    return (
-      <>
-         <span className={styles.status} style={{ backgroundColor: isOnline ? 'green' : 'red' }}>{isOnline}</span>
-         <img className={styles.avatar} src={avatar} alt={name} width="48" />
-         <p className={styles.name} >{name}</p>
-      </>
+      <li className={s.item}>
+         <span className={s.status} style={{ backgroundColor: statusBgColor }}>{isOnline}</span>
+         <img className={s.avatar} src={avatar} alt={name} width="48" />
+         <p className={s.name} >{name}</p>
+      </li >
+
    )
 }
 
